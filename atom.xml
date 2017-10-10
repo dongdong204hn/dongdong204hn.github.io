@@ -23,14 +23,13 @@
     <published>2017-10-06T10:24:21.000Z</published>
     <updated>2017-10-10T11:23:40.000Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><p>　　一个程序猿，我的职业。<br>　　爱唱歌，从小就喜欢唱，可以一个人去K歌。<br>　　爱运动，绝大多数运动都喜欢。<br>　　爱游戏，各种类型的都喜欢。  </p><h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1><p>   哈哈</p>]]></content>
+    
     <summary type="html">
     
       
       
-        
-        
-          &lt;h1 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot;
-        
+        &lt;h1 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h1&gt;&lt;p&gt;　　一个程序猿，我的职业。&lt;br&gt;　　爱唱歌，从小就喜欢唱，可以一个人去K歌。&lt;br&gt;　　爱运动，绝大多数运动都喜欢。&lt;br&gt;　　爱游戏，各种类型的
       
     
     </summary>
@@ -51,15 +50,14 @@
     <published>2017-10-06T10:22:52.000Z</published>
     <updated>2017-10-10T06:54:21.000Z</updated>
     
+    <content type="html"><![CDATA[<p>　　学习各种技术，总结技术细节。做一个合格的程序猿。</p>]]></content>
+    
     <summary type="html">
     
       
       
-        
-        
-          &lt;p&gt;　　学习各种技术，总结技术细节。做一个合格的程序猿。&lt;/p&gt;
+        &lt;p&gt;　　学习各种技术，总结技术细节。做一个合格的程序猿。&lt;/p&gt;
 
-        
       
     
     </summary>
@@ -78,14 +76,15 @@
     <published>2017-10-06T10:18:18.000Z</published>
     <updated>2017-10-10T06:54:01.000Z</updated>
     
+    <content type="html"><![CDATA[<p>一直想要弄个博客记录点东西，拖拖拉拉磨磨蹭蹭直到现在。  </p><p>这是第一篇博文，希望这里能被我不断的塞满，记录我的想法，刻下我的记忆。</p>]]></content>
+    
     <summary type="html">
     
       
       
-        
-        
-          &lt;p&gt;一直想要弄个博客记录点东西，拖拖拉拉磨磨蹭蹭直到现在。 
-        
+        &lt;p&gt;一直想要弄个博客记录点东西，拖拖拉拉磨磨蹭蹭直到现在。  &lt;/p&gt;
+&lt;p&gt;这是第一篇博文，希望这里能被我不断的塞满，记录我的想法，刻下我的记忆。&lt;/p&gt;
+
       
     
     </summary>
@@ -93,9 +92,9 @@
       <category term="杂记" scheme="https://dongdong204hn.github.io/source/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-      <category term="时间轴" scheme="https://dongdong204hn.github.io/tags/%E6%97%B6%E9%97%B4%E8%BD%B4/"/>
-    
       <category term="初记" scheme="https://dongdong204hn.github.io/tags/%E5%88%9D%E8%AE%B0/"/>
+    
+      <category term="时间轴" scheme="https://dongdong204hn.github.io/tags/%E6%97%B6%E9%97%B4%E8%BD%B4/"/>
     
   </entry>
   
@@ -106,14 +105,13 @@
     <published>2017-10-06T10:10:50.000Z</published>
     <updated>2017-10-10T06:54:12.000Z</updated>
     
+    <content type="html"><![CDATA[<p>　　上大学之后开始接触的修仙以及玄幻类的小说，向往仙侠世界里的御剑飞行，仙剑环绕，渴望魔法世界里的五彩斑斓，各种法术。<br>　　纵阅小说无数，然未发现完美的小说。各种残缺美，有的主角光坏太过，有的情感描写太差，有的虎头蛇尾，有的情节拖沓，但是也挡不住我对仙侠玄幻的热情。<br>　　一个愿望就是有一天能自己写一部自己喜爱的小说。</p>]]></content>
+    
     <summary type="html">
     
       
       
-        
-        
-          &lt;p&gt;　　上大学之后开始接触的修仙以及玄幻类的小说，向往仙侠世界里的御剑飞行，仙剑环绕，渴望魔法世界里的五彩斑斓，各种法术。&lt;br&gt;　　纵阅小说无数，然未发现完美的小说。各种残缺美，有的主角光坏太过，有的情感描写太差，有的虎头蛇尾，有的情节拖沓，但是也挡不住我对仙侠玄幻的热情。&lt;
-        
+        &lt;p&gt;　　上大学之后开始接触的修仙以及玄幻类的小说，向往仙侠世界里的御剑飞行，仙剑环绕，渴望魔法世界里的五彩斑斓，各种法术。&lt;br&gt;　　纵阅小说无数，然未发现完美的小说。各种残缺美，有的主角光坏太过，有的情感描写太差，有的虎头蛇尾，有的情节拖沓，但是也挡不住我对仙侠玄幻的热情。&lt;
       
     
     </summary>
